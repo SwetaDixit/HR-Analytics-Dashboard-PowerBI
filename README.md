@@ -88,3 +88,6 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use and 
 ---
 
 **Disclaimer**: This dashboard is for demonstration purposes only and may not reflect real-world HR scenarios accurately. Use the insights provided cautiously and always refer to professional HR advice when making decisions.
+![image](https://github.com/SwetaDixit/HR-Analytics-Dashboard-PowerBI/assets/143870019/434b79f4-a50b-44ce-a498-2cca522e07d8)
+
+
